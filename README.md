@@ -1,9 +1,9 @@
 
 # 🔎 Port Scanner + Banner Grabber
 
-### Tarea de Hacking Ético
+### Práctica de Hacking Ético
 
-Herramienta desarrollada como práctica de ciberseguridad para combinar **escaneo de puertos** y **captura de banners**, permitiendo identificar servicios activos y posibles versiones vulnerables en un sistema objetivo.
+Herramienta de ciberseguridad para combinar **escaneo de puertos** y **captura de banners**, permitiendo identificar servicios activos y posibles versiones vulnerables en un sistema objetivo.
 
 ---
 
