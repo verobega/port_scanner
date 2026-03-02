@@ -71,6 +71,3 @@ El script funciona de la siguiente manera:
   * Redes
   * TCP/IP
   * Seguridad ofensiva
-
-Dime qué enfoque quieres para tu GitHub 😎
-
